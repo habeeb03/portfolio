@@ -28,7 +28,8 @@ body {
   background-color: #1818184e;
   width: 20%;
   height: 550px;
-  border: #181818e1;
+  border: 1px solid #18181880;
+  /* border-right: #181818e1 !important; */
 }
 
 /* Style the buttons inside the tab */
